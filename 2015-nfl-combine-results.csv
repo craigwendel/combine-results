@@ -1,0 +1,324 @@
+year,name,firstname,lastname,position,heightfeet,heightinches,heightinchestotal,weight,arms,hands,fortyyd,twentyyd,tenyd,twentyss,threecone,vertical,broad,bench,round,college,pick,pickround,picktotal,wonderlic,nflgrade
+2015,Ameer Abdullah,Ameer,Abdullah,RB,5,9,69,205,0,0,4.6,0,0,3.95,6.79,42.5,130,24,0,Nebraska,,0,0,0,5.9
+2015,Nelson Agholor,Nelson,Agholor,WR,6,0,72,198,0,0,4.42,0,0,0,0,0,0,12,0,USC,,0,0,0,5.6
+2015,Jay Ajayi,Jay,Ajayi,RB,6,0,72,221,0,0,4.57,0,0,4.1,7.1,39,121,19,0,Boise St.,,0,0,0,6
+2015,Kwon Alexander,Kwon,Alexander,OLB,6,1,73,227,0,0,4.55,0,0,4.2,7.14,36,121,24,0,LSU,,0,0,0,5.4
+2015,Mario Alford,Mario,Alford,WR,5,8,68,180,0,0,4.43,0,0,4.07,6.64,34,121,13,0,West Virginia,,0,0,0,5.3
+2015,Javorius Allen,Javorius,Allen,RB,6,0,72,221,0,0,4.53,0,0,4.28,6.96,35.5,121,11,0,USC,,0,0,0,5.3
+2015,Adrian Amos,Adrian,Amos,FS,6,0,72,218,0,0,4.56,0,0,4.03,7.09,35.5,122,0,0,Penn St.,,0,0,0,5.5
+2015,Dres Anderson,Dres,Anderson,WR,6,1,73,187,0,0,0,0,0,0,0,0,0,13,0,Utah,,0,0,0,5.5
+2015,Henry Anderson,Henry,Anderson,DE,6,6,78,294,0,0,5.03,0,0,4.19,7.2,30,111,0,0,Stanford,,0,0,0,5.6
+2015,Rory 'Busta' Anderson,Rory 'Busta',Anderson,TE,6,5,77,244,0,0,0,0,0,0,0,0,0,0,0,South Carolina,,0,0,0,5.5
+2015,Stephone Anthony,Stephone,Anthony,ILB,6,3,75,243,0,0,4.56,0,0,4.03,7.07,37,122,23,0,Clemson,,0,0,0,5.4
+2015,Arik Armstead,Arik,Armstead,DT,6,7,79,292,0,0,5.1,0,0,4.53,7.57,34,117,24,0,Oregon,,0,0,0,6.2
+2015,Cameron Artis-Payne,Cameron,Artis-Payne,RB,5,10,70,212,0,0,4.53,0,0,0,7.13,36.5,118,0,0,Auburn,,0,0,0,5.4
+2015,Neiron Ball,Neiron,Ball,OLB,6,2,74,236,0,0,0,0,0,0,0,0,0,22,0,Florida,,0,0,0,4.9
+2015,Tavaris Barnes,Tavaris,Barnes,DE,6,4,76,282,0,0,4.8,0,0,0,0,0,0,22,0,Clemson,,0,0,0,5
+2015,Wil Baumann,Wil,Baumann,P,6,6,78,187,0,0,0,0,0,0,0,0,0,0,0,N.C. State,,0,0,0,5.1
+2015,Vic Beasley,Vic,Beasley,OLB,6,3,75,246,0,0,4.53,0,0,4.15,6.91,41,130,35,0,Clemson,,0,0,0,6.1
+2015,Blake Bell,Blake,Bell,TE,6,6,78,252,0,0,4.8,0,0,4.32,0,33,116,14,0,Oklahoma,,0,0,0,5.2
+2015,Kenny Bell,Kenny,Bell,WR,6,1,73,197,0,0,4.42,0,0,4.15,6.66,41.5,129,7,0,Nebraska,,0,0,0,5.4
+2015,Bryan Bennett,Bryan,Bennett,QB,6,2,74,211,0,0,4.81,0,0,4.2,7.13,37,125,0,0,Southeastern Louisiana,,0,0,0,0
+2015,Michael Bennett,Michael,Bennett,DT,6,2,74,293,0,0,0,0,0,0,0,0,0,0,0,Ohio St.,,0,0,0,6
+2015,E.J. Bibbs,E.J.,Bibbs,TE,6,2,74,258,0,0,0,0,0,0,0,0,0,20,0,Iowa St.,,0,0,0,5
+2015,Angelo Blackson,Angelo,Blackson,DT,6,4,76,318,0,0,5.02,0,0,4.57,7.5,31,101,20,0,Auburn,,0,0,0,5
+2015,Al Bond,Al,Bond,OG,6,4,76,303,0,0,5.57,0,0,4.65,7.9,23.5,90,22,0,Memphis,,0,0,0,5
+2015,Detrick Bonner,Detrick,Bonner,FS,6,0,72,207,0,0,0,0,0,0,0,0,0,15,0,Virginia Tech,,0,0,0,5.2
+2015,Anthony Boone,Anthony,Boone,QB,6,0,72,231,0,0,5.03,0,0,4.62,7.47,26.5,100,0,0,Duke,,0,0,0,5
+2015,Brett Boyko,Brett,Boyko,OT,6,7,79,301,0,0,5.6,0,0,4.75,7.91,25,103,0,0,UNLV,,0,0,0,4.8
+2015,Nick Boyle,Nick,Boyle,TE,6,4,76,268,0,0,5.04,0,0,4.23,0,30.5,112,20,0,Delaware,,0,0,0,5.2
+2015,Brandon Bridge,Brandon,Bridge,QB,6,4,76,229,0,0,4.72,0,0,4.37,7.18,33,110,0,0,South Alabama,,0,0,0,5
+2015,Kyle Brindza,Kyle,Brindza,K,6,1,73,236,0,0,0,0,0,0,0,0,0,14,0,Notre Dame,,0,0,0,4.8
+2015,Da'Ron Brown,Da'Ron,Brown,WR,6,0,72,205,0,0,4.54,0,0,4.11,7.04,37,120,17,0,Northern Illinois,,0,0,0,4.9
+2015,Dominique Brown,Dominique,Brown,RB,6,2,74,234,0,0,0,0,0,0,0,0,0,17,0,Louisville,,0,0,0,5
+2015,Jamon Brown,Jamon,Brown,OT,6,4,76,323,0,0,0,0,0,0,0,0,0,0,0,Louisville,,0,0,0,5.3
+2015,Malcolm Brown,Malcolm,Brown,RB,5,11,71,224,0,0,4.62,0,0,4.15,6.86,34.5,117,19,0,Texas,,0,0,0,5.2
+2015,Malcom Brown,Malcom,Brown,DT,6,2,74,319,0,0,5.05,0,0,4.59,7.84,29.5,98,26,0,Texas,,0,0,0,6.1
+2015,Trenton Brown,Trenton,Brown,OG,6,8,80,355,0,0,5.29,0,0,4.78,8.23,23.5,97,20,0,Florida,,0,0,0,5.3
+2015,Michael Burton,Michael,Burton,FB,5,11,71,242,0,0,4.74,0,0,4.34,7.2,33,115,25,0,Rutgers,,0,0,0,4.8
+2015,Ibraheim Campbell,Ibraheim,Campbell,SS,5,11,71,208,0,0,0,0,0,0,0,0,0,23,0,Northwestern,,0,0,0,5.2
+2015,A.J. Cann,A.J.,Cann,OG,6,3,75,313,0,0,0,0,0,0,0,0,0,26,0,South Carolina,,0,0,0,6
+2015,Shane Carden,Shane,Carden,QB,6,2,74,218,0,0,4.94,0,0,4.45,7.17,29.5,104,0,0,East Carolina,,0,0,0,5.1
+2015,Joe Cardona,Joe,Cardona,LS,6,2,74,242,0,0,4.91,0,0,0,0,33,0,30,0,Navy,,0,0,0,0
+2015,Alex Carter,Alex,Carter,CB,6,0,72,196,0,0,4.51,0,0,4.07,7.05,40,121,17,0,Stanford,,0,0,0,5.5
+2015,B.J. Catalon,B.J.,Catalon,RB,5,7,67,186,0,0,4.57,0,0,4.15,6.9,36,114,0,0,TCU,,0,0,0,5.1
+2015,Donald Celiscar,Donald,Celiscar,CB,5,11,71,194,0,0,4.62,0,0,0,0,0,120,0,0,Western Michigan,,0,0,0,5.3
+2015,Anthony Chickillo,Anthony,Chickillo,DE,6,3,75,267,0,0,4.79,0,0,4.25,7.17,34.5,114,27,0,Miami,,0,0,0,5.1
+2015,Gerald Christian,Gerald,Christian,TE,6,3,75,244,0,0,4.87,0,0,4.7,0,0,0,28,0,Louisville,,0,0,0,5.3
+2015,Kyle Christy,Kyle,Christy,P,6,2,74,202,0,0,0,0,0,0,0,0,0,0,0,Florida,,0,0,0,0
+2015,Frank Clark,Frank,Clark,DE,6,3,75,271,0,0,4.79,0,0,4.05,7.08,38.5,118,19,0,Michigan,,0,0,0,4.8
+2015,Kaelin Clay,Kaelin,Clay,WR,5,10,70,195,0,0,4.51,0,0,4.26,6.97,33,113,10,0,Utah,,0,0,0,5.1
+2015,Cameron Clear,Cameron,Clear,TE,6,5,77,277,0,0,4.98,0,0,4.48,0,32,108,0,0,Texas A&M,,0,0,0,4.8
+2015,T.J. Clemmings,T.J.,Clemmings,OT,6,5,77,309,0,0,5.14,0,0,4.54,7.68,32.5,111,22,0,Pittsburgh,,0,0,0,6.1
+2015,Sammie Coates,Sammie,Coates,WR,6,1,73,212,0,0,4.43,0,0,4.06,6.98,41,131,23,0,Auburn,,0,0,0,5.6
+2015,David Cobb,David,Cobb,RB,5,11,71,229,0,0,4.81,0,0,0,0,38.5,121,17,0,Minnesota,,0,0,0,5.5
+2015,Takoby Cofield,Takoby,Cofield,OT,6,4,76,310,0,0,5.19,0,0,4.79,8.09,30,101,23,0,Duke,,0,0,0,4.9
+2015,Justin Coleman,Justin,Coleman,CB,5,11,71,185,0,0,4.53,0,0,3.98,6.61,37.5,124,20,0,Tennessee,,0,0,0,5.2
+2015,Tevin Coleman,Tevin,Coleman,RB,5,11,71,206,0,0,0,0,0,0,0,0,0,22,0,Indiana,,0,0,0,6.1
+2015,Jalen Collins,Jalen,Collins,CB,6,1,73,203,0,0,4.48,0,0,4.27,6.77,36,124,0,0,LSU,,0,0,0,6.1
+2015,La'el Collins,La'el,Collins,OT,6,4,76,305,0,0,5.12,0,0,4.63,7.7,27,108,21,0,LSU,,0,0,0,6.2
+2015,Landon Collins,Landon,Collins,SS,6,0,72,228,0,0,4.53,0,0,4.33,7.38,35,120,0,0,Alabama,,0,0,0,6.4
+2015,Chris Conley,Chris,Conley,WR,6,2,74,213,0,0,4.35,0,0,4.3,7.06,45,139,18,0,Georgia,,0,0,0,5.5
+2015,Amari Cooper,Amari,Cooper,WR,6,1,73,211,0,0,4.42,0,0,3.98,6.71,33,120,0,0,Alabama,,0,0,0,7
+2015,Xavier Cooper,Xavier,Cooper,DT,6,3,75,293,0,0,4.86,0,0,4.37,7.23,29,110,29,0,Washington St.,,0,0,0,5.4
+2015,Christian Covington,Christian,Covington,DT,6,2,74,289,0,0,0,0,0,0,0,0,0,0,0,Rice,,0,0,0,5.4
+2015,Justin Cox,Justin,Cox,FS,6,1,73,191,0,0,4.36,0,0,4.07,7.05,38,129,15,0,Mississippi St.,,0,0,0,4.9
+2015,Corey Crawford,Corey,Crawford,DE,6,5,77,283,0,0,5.01,0,0,4.65,7.64,33,110,0,0,Clemson,,0,0,0,4.9
+2015,Rob Crisp,Rob,Crisp,OT,6,7,79,301,0,0,5.26,0,0,4.6,8.07,32.5,107,26,0,N.C. State,,0,0,0,5.5
+2015,John Crockett,John,Crockett,RB,6,0,72,217,0,0,4.62,0,0,4.25,7.15,40,125,15,0,North Dakota St.,,0,0,0,5.2
+2015,Jamison Crowder,Jamison,Crowder,WR,5,8,68,185,0,0,4.56,0,0,4.32,7.17,37,115,10,0,Duke,,0,0,0,5.4
+2015,Yannik Cudjoe-Virgil,Yannik,Cudjoe-Virgil,OLB,6,2,74,248,0,0,0,0,0,0,0,0,0,25,0,Maryland,,0,0,0,4.8
+2015,Davaris Daniels,Davaris,Daniels,WR,6,1,73,201,0,0,4.62,0,0,0,0,37,122,13,0,Notre Dame,,0,0,0,5.2
+2015,Ronald Darby,Ronald,Darby,CB,5,11,71,193,0,0,4.38,0,0,4.14,6.94,41.5,129,12,0,Florida St.,,0,0,0,5.6
+2015,Aaron Davis,Aaron,Davis,OLB,6,0,72,225,0,0,4.95,0,0,4.37,7.38,29,107,16,0,Colorado St.,,0,0,0,5.2
+2015,Carl Davis,Carl,Davis,DT,6,5,77,320,0,0,5.07,0,0,4.47,7.91,33,103,0,0,Iowa,,0,0,0,5.9
+2015,Devante Davis,Devante,Davis,WR,6,3,75,220,0,0,4.57,0,0,4.12,7.25,35.5,115,16,0,UNLV,,0,0,0,5.2
+2015,Geremy Davis,Geremy,Davis,WR,6,2,74,216,0,0,0,0,0,4.18,6.86,36.5,124,23,0,Connecticut,,0,0,0,4.8
+2015,Mike Davis,Mike,Davis,RB,5,9,69,217,0,0,4.61,0,0,4.18,7,34,116,17,0,South Carolina,,0,0,0,5.4
+2015,Titus Davis,Titus,Davis,WR,6,1,73,196,0,0,4.51,0,0,4.28,7.14,32.5,119,0,0,Central Michigan,,0,0,0,5.4
+2015,Tyeler Davison,Tyeler,Davison,DT,6,2,74,316,0,0,5.18,0,0,4.46,7.53,33,105,32,0,Fresno St.,,0,0,0,5.5
+2015,Paul Dawson,Paul,Dawson,ILB,6,0,72,235,0,0,4.93,0,0,4.49,0,28,109,21,0,TCU,,0,0,0,6
+2015,Ryan Delaire,Ryan,Delaire,DE,6,4,76,254,0,0,4.97,0,0,0,0,0,0,23,0,Towson,,0,0,0,5
+2015,Trey DePriest,Trey,DePriest,ILB,6,0,72,254,0,0,0,0,0,0,0,0,0,0,0,Alabama,,0,0,0,5.1
+2015,A.J. Derby,A.J.,Derby,TE,6,4,76,255,0,0,0,0,0,0,0,0,0,15,0,Arkansas,,0,0,0,5.3
+2015,Xzavier Dickson,Xzavier,Dickson,OLB,6,3,75,260,0,0,4.74,0,0,4.53,7.56,29.5,100,19,0,Alabama,,0,0,0,5.1
+2015,Quandre Diggs,Quandre,Diggs,CB,5,9,69,196,0,0,4.56,0,0,4.15,7.22,35.5,113,17,0,Texas,,0,0,0,5.2
+2015,Stefon Diggs,Stefon,Diggs,WR,6,0,72,195,0,0,4.46,0,0,4.32,7.03,35,115,0,0,Maryland,,0,0,0,5.6
+2015,Reese Dismukes,Reese,Dismukes,C,6,3,75,296,0,0,5.31,0,0,4.7,8.14,27.5,107,23,0,Auburn,,0,0,0,5.3
+2015,Andrew Donnal,Andrew,Donnal,OT,6,6,78,313,0,0,5.31,0,0,4.77,7.84,32,101,17,0,Iowa,,0,0,0,5.4
+2015,Phillip Dorsett,Phillip,Dorsett,WR,5,10,70,185,0,0,4.33,0,0,4.11,6.7,37,122,13,0,Miami,,0,0,0,5.7
+2015,Lorenzo Doss,Lorenzo,Doss,CB,5,10,70,182,0,0,4.5,0,0,4.26,7.2,33.5,115,9,0,Tulane,,0,0,0,5.6
+2015,Jamil Douglas,Jamil,Douglas,OG,6,4,76,304,0,0,5.25,0,0,4.75,7.99,29,99,28,0,Arizona State,,0,0,0,5.2
+2015,Kurtis Drummond,Kurtis,Drummond,FS,6,1,73,208,0,0,4.65,0,0,4.33,7.09,39.5,119,0,0,Michigan St.,,0,0,0,5.5
+2015,B.J. Dubose,B.J.,Dubose,OLB,6,4,76,284,0,0,5.06,0,0,0,0,0,0,26,0,Louisville,,0,0,0,5.2
+2015,Bud Dupree,Bud,Dupree,OLB,6,4,76,269,0,0,4.56,0,0,0,0,42,138,0,0,Kentucky,,0,0,0,5.9
+2015,Michael Dyer,Michael,Dyer,RB,5,8,68,218,0,0,4.58,0,0,0,0,34,120,26,0,Louisville,,0,0,0,4.9
+2015,Jahwan Edwards,Jahwan,Edwards,RB,5,9,69,220,0,0,4.8,0,0,4.5,7.63,35.5,117,16,0,Ball St.,,0,0,0,5.1
+2015,Mario Edwards, Jr.,Mario,Edwards, Jr.,DT,6,3,75,279,0,0,4.84,0,0,4.55,7.44,32.5,120,32,0,Florida St.,,0,0
+2015,Ifo Ekpre-Olomu,Ifo,Ekpre-Olomu,CB,5,9,69,192,0,0,0,0,0,0,0,0,0,0,0,Oregon,,0,0,0,5.6
+2015,Kyle Emanuel,Kyle,Emanuel,OLB,6,3,75,255,0,0,4.77,0,0,4.25,7.1,34,120,27,0,North Dakota St.,,0,0,0,5.5
+2015,Cameron Erving,Cameron,Erving,C,6,5,77,313,0,0,5.15,0,0,4.63,7.48,30.5,112,30,0,Florida St.,,0,0,0,5.8
+2015,Durell Eskridge,Durell,Eskridge,FS,6,3,75,208,0,0,4.63,0,0,4.26,7.09,31,117,0,0,Syracuse,,0,0,0,5.2
+2015,Tayo Fabuluje,Tayo,Fabuluje,OG,6,6,78,353,0,0,5.55,0,0,4.77,0,29.5,0,0,0,TCU,,0,0,0,5.3
+2015,Cody Fajardo,Cody,Fajardo,QB,6,1,73,223,0,0,4.63,0,0,4.1,6.95,32.5,118,0,0,Nevada,,0,0,0,5
+2015,Jon Feliciano,Jon,Feliciano,OG,6,4,76,323,0,0,5.33,0,0,4.74,0,26.5,97,0,0,Miami,,0,0,0,4.8
+2015,Sam Ficken,Sam,Ficken,K,6,1,73,191,0,0,0,0,0,0,0,0,0,0,0,Penn St.,,0,0,0,4.8
+2015,B.J. Finney,B.J.,Finney,C,6,4,76,318,0,0,5.25,0,0,4.76,0,24,99,20,0,Kansas St.,,0,0,0,5.6
+2015,Jake Fisher,Jake,Fisher,OT,6,6,78,306,0,0,5.01,0,0,4.33,7.25,32.5,0,25,0,Oregon,,0,0,0,5.7
+2015,Ereck Flowers,Ereck,Flowers,OT,6,6,78,329,0,0,5.31,0,0,0,0,0,0,37,0,Miami,,0,0,0,6
+2015,Trey Flowers,Trey,Flowers,DE,6,2,74,266,0,0,4.93,0,0,4.4,7.34,36.5,121,28,0,Arkansas,,0,0,0,5.6
+2015,Jalston Fowler,Jalston,Fowler,FB,5,11,71,254,0,0,4.94,0,0,4.4,7.56,33.5,114,23,0,Alabama,,0,0,0,5.1
+2015,Dante Fowler, Jr.,Dante,Fowler, Jr.,OLB,6,3,75,261,0,0,4.6,0,0,4.32,7.4,32.5,112,19,0,Florida,,0,0
+2015,Alani Fua,Alani,Fua,OLB,6,5,77,238,0,0,4.73,0,0,4.15,6.83,34.5,118,18,0,BYU,,0,0,0,5.3
+2015,Devin Funchess,Devin,Funchess,WR,6,4,76,232,0,0,4.7,0,0,0,0,38.5,122,17,0,Michigan,,0,0,0,5.6
+2015,Charles Gaines,Charles,Gaines,CB,5,10,70,180,0,0,4.44,0,0,4.2,7.07,34.5,123,0,0,Louisville,,0,0,0,5.5
+2015,Andy Gallik,Andy,Gallik,C,6,2,74,306,0,0,5.5,0,0,4.58,7.66,27,96,29,0,Boston College,,0,0,0,5.5
+2015,Max Garcia,Max,Garcia,C,6,4,76,309,0,0,0,0,0,0,0,0,0,0,0,Florida,,0,0,0,5.2
+2015,Clayton Geathers,Clayton,Geathers,SS,6,2,74,218,0,0,4.55,0,0,4.27,7.21,37,120,22,0,Central Florida,,0,0,0,5.2
+2015,Laurence Gibson,Laurence,Gibson,OT,6,6,78,305,0,0,5.04,0,0,4.56,7.72,33.5,113,24,0,Virginia Tech,,0,0,0,4.9
+2015,Jacoby Glenn,Jacoby,Glenn,CB,6,0,72,179,0,0,4.64,0,0,4.26,6.97,34,123,0,0,Central Florida,,0,0,0,5.2
+2015,Mark Glowinski,Mark,Glowinski,OG,6,4,76,307,0,0,5.2,0,0,4.58,7.56,29.5,113,31,0,West Virginia,,0,0,0,5.4
+2015,Markus Golden,Markus,Golden,DE,6,2,74,260,0,0,4.9,0,0,0,0,0,0,0,0,Missouri,,0,0,0,5.5
+2015,Eddie Goldman,Eddie,Goldman,DT,6,4,76,336,0,0,0,0,0,0,0,0,0,0,0,Florida St.,,0,0,0,6.1
+2015,Senquez Golson,Senquez,Golson,CB,5,9,69,176,0,0,4.46,0,0,4.2,6.81,33.5,120,15,0,Mississippi,,0,0,0,5.8
+2015,Antwan Goodley,Antwan,Goodley,WR,5,10,70,209,0,0,4.44,0,0,0,0,0,0,0,0,Baylor,,0,0,0,5.5
+2015,Melvin Gordon,Melvin,Gordon,RB,6,1,73,215,0,0,4.52,0,0,4.07,7.04,35,126,19,0,Wisconsin,,0,0,0,6.2
+2015,Doran Grant,Doran,Grant,CB,5,10,70,200,0,0,4.44,0,0,4.33,0,33,116,21,0,Ohio St.,,0,0,0,5.3
+2015,Hroniss Grasu,Hroniss,Grasu,C,6,3,75,297,0,0,0,0,0,0,0,0,0,0,0,Oregon,,0,0,0,5.7
+2015,Garrett Grayson,Garrett,Grayson,QB,6,2,74,213,0,0,0,0,0,0,0,0,0,0,0,Colorado St.,,0,0,0,5.4
+2015,Chaz Green,Chaz,Green,OT,6,5,77,314,0,0,5.16,0,0,4.7,8,29.5,106,21,0,Florida,,0,0,0,5.1
+2015,Dorial Green-Beckham,Dorial,Green-Beckham,WR,6,5,77,237,0,0,4.49,0,0,4.45,6.89,33.5,119,13,0,Missouri,,0,0,0,5.7
+2015,Rashad Greene,Rashad,Greene,WR,5,11,71,182,0,0,4.53,0,0,4.12,6.88,36.5,122,0,0,Florida St.,,0,0,0,5.7
+2015,Randy Gregory,Randy,Gregory,OLB,6,5,77,235,0,0,4.64,0,0,0,0,36.5,125,24,0,Nebraska,,0,0,0,6.4
+2015,Geneo Grissom,Geneo,Grissom,DE,6,3,75,262,0,0,4.81,0,0,4.38,7.24,37,117,20,0,Oklahoma,,0,0,0,5.4
+2015,Ladarius Gunter,Ladarius,Gunter,CB,6,1,73,202,0,0,4.69,0,0,4.41,7.18,33.5,108,12,0,Miami,,0,0,0,5.4
+2015,Todd Gurley,Todd,Gurley,RB,6,1,73,222,0,0,0,0,0,0,0,0,0,17,0,Georgia,,0,0,0,6.3
+2015,Obum Gwacham,Obum,Gwacham,DE,6,5,77,246,0,0,4.72,0,0,4.28,7.28,36,121,22,0,Oregon St.,,0,0,0,5.2
+2015,Chris Hackett,Chris,Hackett,FS,6,0,72,195,0,0,4.81,0,0,4.2,7.12,32,110,0,0,TCU,,0,0,0,5.1
+2015,Bryce Hager,Bryce,Hager,ILB,6,1,73,234,0,0,4.6,0,0,4.36,7.15,35,117,26,0,Baylor,,0,0,0,5.1
+2015,Rannell Hall,Rannell,Hall,WR,6,0,72,198,0,0,4.6,0,0,4.15,6.86,41,132,16,0,Central Florida,,0,0,0,5.2
+2015,Connor Halliday,Connor,Halliday,QB,6,3,75,196,0,0,0,0,0,0,0,0,0,0,0,Washington St.,,0,0,0,5.1
+2015,Chad Hamilton,Chad,Hamilton,C,6,2,74,292,0,0,0,0,0,0,0,0,0,0,0,Coastal Carolina,,0,0,0,5.2
+2015,Marcus Hardison,Marcus,Hardison,DE,6,3,75,307,0,0,0,0,0,0,0,0,0,27,0,Arizona State,,0,0,0,5.6
+2015,Justin Hardy,Justin,Hardy,WR,5,10,70,192,0,0,4.56,0,0,4.21,6.63,36.5,114,11,0,East Carolina,,0,0,0,5.4
+2015,Eli Harold,Eli,Harold,OLB,6,3,75,247,0,0,4.6,0,0,4.16,7.07,35,123,0,0,Virginia,,0,0,0,5.9
+2015,Josh Harper,Josh,Harper,WR,6,1,73,191,0,0,4.64,0,0,4.36,7.15,32,108,13,0,Fresno St.,,0,0,0,5.4
+2015,Anthony Harris,Anthony,Harris,SS,6,1,73,183,0,0,4.56,0,0,0,0,0,0,0,0,Virginia,,0,0,0,5.6
+2015,Jarvis Harrison,Jarvis,Harrison,OG,6,4,76,330,0,0,5.19,0,0,4.62,7.51,29.5,102,26,0,Texas A&M,,0,0,0,5.7
+2015,Bobby Hart,Bobby,Hart,OG,6,5,77,329,0,0,0,0,0,0,0,0,0,0,0,Florida St.,,0,0,0,5.1
+2015,Dee Hart,Dee,Hart,RB,5,7,67,199,0,0,4.8,0,0,4.38,7.2,33,113,0,0,Colorado St.,,0,0,0,5
+2015,Rob Havenstein,Rob,Havenstein,OT,6,7,79,321,0,0,5.46,0,0,4.87,8.28,28.5,96,16,0,Wisconsin,,0,0,0,5.8
+2015,Braylon Heard,Braylon,Heard,RB,5,10,70,198,0,0,4.63,0,0,4.4,7.19,30.5,116,19,0,Kentucky,,0,0,0,5.3
+2015,Ben Heeney,Ben,Heeney,ILB,6,0,72,231,0,0,4.59,0,0,4,6.68,33.5,120,19,0,Kansas,,0,0,0,5.2
+2015,Amarlo Herrera,Amarlo,Herrera,ILB,6,1,73,244,0,0,4.83,0,0,4.27,7.35,32,111,23,0,Georgia,,0,0,0,5.1
+2015,Jeff Heuerman,Jeff,Heuerman,TE,6,5,77,254,0,0,0,0,0,0,0,0,0,26,0,Ohio St.,,0,0,0,5.4
+2015,Sean Hickey,Sean,Hickey,OT,6,5,77,309,0,0,0,0,0,0,0,0,0,35,0,Syracuse,,0,0,0,5.2
+2015,Jordan Hicks,Jordan,Hicks,OLB,6,1,73,236,0,0,4.68,0,0,4.15,6.78,38,124,20,0,Texas,,0,0,0,5.4
+2015,Troy Hill,Troy,Hill,CB,5,10,70,182,0,0,4.55,0,0,4.21,6.81,32.5,120,0,0,Oregon,,0,0,0,5.4
+2015,Kenny Hilliard,Kenny,Hilliard,RB,6,0,72,226,0,0,4.83,0,0,4.4,7.17,27,111,0,0,LSU,,0,0,0,4.8
+2015,Zack Hodges,Zack,Hodges,OLB,6,2,74,250,0,0,4.68,0,0,4.65,0,33.5,125,0,0,Harvard,,0,0,0,5.2
+2015,Gerod Holliman,Gerod,Holliman,FS,6,0,72,218,0,0,0,0,0,0,0,0,0,17,0,Louisville,,0,0,0,5.5
+2015,Mike Hull,Mike,Hull,OLB,6,0,72,237,0,0,4.68,0,0,4.15,6.99,0,0,31,0,Penn St.,,0,0,0,5.2
+2015,D.J. Humphries,D.J.,Humphries,OT,6,5,77,307,0,0,5.12,0,0,4.64,7.87,31,104,26,0,Florida,,0,0,0,5.8
+2015,Brett Hundley,Brett,Hundley,QB,6,3,75,226,0,0,4.63,0,0,3.98,6.93,36,120,0,0,UCLA,,0,0,0,5.5
+2015,Danielle Hunter,Danielle,Hunter,DE,6,5,77,252,0,0,4.57,0,0,0,0,0,0,25,0,LSU,,0,0,0,5.7
+2015,Martin Ifedi,Martin,Ifedi,DE,6,3,75,275,0,0,4.88,0,0,4.58,7.39,31,111,16,0,Memphis,,0,0,0,5
+2015,Joey Iosefa,Joey,Iosefa,RB,6,0,72,247,0,0,5.02,0,0,4.33,7.24,31.5,110,30,0,Hawaii,,0,0,0,4.8
+2015,Tre' Jackson,Tre',Jackson,OG,6,4,76,330,0,0,5.52,0,0,0,0,25,96,0,0,Florida St.,,0,0,0,5.7
+2015,Jesse James,Jesse,James,TE,6,7,79,261,0,0,4.83,0,0,4.5,0,37.5,121,26,0,Penn St.,,0,0,0,5.1
+2015,Grady Jarrett,Grady,Jarrett,NT,6,1,73,304,0,0,5.06,0,0,4.56,7.37,31,112,30,0,Clemson,,0,0,0,5.8
+2015,Kyshoen Jarrett,Kyshoen,Jarrett,SS,5,10,70,200,0,0,4.57,0,0,4.4,6.95,33,109,21,0,Virginia Tech,,0,0,0,5.2
+2015,Anthony Jefferson,Anthony,Jefferson,CB,6,1,73,198,0,0,4.72,0,0,4.15,7.18,33.5,116,15,0,UCLA,,0,0,0,4.9
+2015,David Johnson,David,Johnson,RB,6,1,73,224,0,0,4.5,0,0,4.27,6.82,41.5,127,25,0,Northern Iowa,,0,0,0,5.3
+2015,Duke Johnson,Duke,Johnson,RB,5,9,69,207,0,0,4.54,0,0,0,0,33.5,121,0,0,Miami,,0,0,0,5.9
+2015,Gus Johnson,Gus,Johnson,RB,5,10,70,215,0,0,4.7,0,0,4.13,7.09,36.5,120,26,0,Stephen F. Austin,,0,0,0,4.9
+2015,Kevin Johnson,Kevin,Johnson,CB,6,0,72,188,0,0,4.52,0,0,3.89,6.79,41.5,130,0,0,Wake Forest,,0,0,0,5.9
+2015,Will Johnson,Will,Johnson,P,6,2,74,206,0,0,0,0,0,0,0,0,0,0,0,Texas St.,,0,0,0,0
+2015,Byron Jones,Byron,Jones,CB,6,1,73,199,0,0,0,0,0,3.94,6.78,44.5,147,0,0,Connecticut,,0,0,0,5.3
+2015,Christion Jones,Christion,Jones,WR,5,10,70,182,0,0,4.63,0,0,4.19,6.91,32.5,119,8,0,Alabama,,0,0,0,0
+2015,Matt Jones,Matt,Jones,RB,6,2,74,231,0,0,4.61,0,0,4.2,0,31.5,112,20,0,Florida,,0,0,0,5.3
+2015,Taiwan Jones,Taiwan,Jones,ILB,6,3,75,245,0,0,4.95,0,0,4.33,7.25,32,115,19,0,Michigan St.,,0,0,0,5.4
+2015,Eric Kendricks,Eric,Kendricks,ILB,6,0,72,232,0,0,4.61,0,0,0,0,38,124,19,0,UCLA,,0,0,0,5.8
+2015,Hau'oli Kikaha,Hau'oli,Kikaha,OLB,6,2,74,253,0,0,0,0,0,0,0,0,0,0,0,Washington,,0,0,0,5.8
+2015,Arie Kouandjio,Arie,Kouandjio,OG,6,5,77,310,0,0,0,0,0,0,0,0,0,0,0,Alabama,,0,0,0,5.3
+2015,Ben Koyack,Ben,Koyack,TE,6,5,77,255,0,0,0,0,0,0,0,0,0,0,0,Notre Dame,,0,0,0,5.4
+2015,Tyler Kroft,Tyler,Kroft,TE,6,5,77,246,0,0,0,0,0,0,0,0,0,17,0,Rutgers,,0,0,0,5.4
+2015,Josh Lambo,Josh,Lambo,K,6,0,72,216,0,0,0,0,0,0,0,0,0,0,0,Texas A&M,,0,0,0,0
+2015,Jeremy Langford,Jeremy,Langford,RB,6,0,72,208,0,0,4.42,0,0,4.32,7.22,34.5,118,0,0,Michigan St.,,0,0,0,5.3
+2015,Dezmin Lewis,Dezmin,Lewis,WR,6,4,76,214,0,0,4.58,0,0,4.28,7.11,33.5,119,16,0,Central Arkansas,,0,0,0,5.3
+2015,Tony Lippett,Tony,Lippett,WR,6,2,74,192,0,0,4.61,0,0,4.13,6.92,36,114,10,0,Michigan St.,,0,0,0,5.4
+2015,Tyler Lockett,Tyler,Lockett,WR,5,10,70,182,0,0,4.4,0,0,4.07,6.89,35.5,121,0,0,Kansas St.,,0,0,0,5.5
+2015,Deon Long,Deon,Long,WR,6,0,72,192,0,0,4.51,0,0,4.27,6.98,34,120,12,0,Maryland,,0,0,0,5.1
+2015,Kyle Loomis,Kyle,Loomis,P,6,2,74,221,0,0,0,0,0,0,0,0,0,0,0,Portland St.,,0,0,0,5.3
+2015,Derrick Lott,Derrick,Lott,DT,6,4,76,314,0,0,4.99,0,0,4.44,7.3,26.5,106,30,0,Tennessee-Chattanooga,,0,0,0,5.3
+2015,Jerry Lovelocke,Jerry,Lovelocke,QB,6,4,76,248,0,0,4.99,0,0,4.51,7.3,31.5,113,0,0,Prairie View A&M,,0,0,0,0
+2015,Donatella Luckett,Donatella,Luckett,WR,6,0,72,211,0,0,4.65,0,0,4.5,7.51,34,118,17,0,Harding,,0,0,0,5.2
+2015,Terrence Magee,Terrence,Magee,RB,5,8,68,213,0,0,0,0,0,4.37,7.52,37,115,22,0,LSU,,0,0,0,5.2
+2015,Craig Mager,Craig,Mager,CB,5,11,71,201,0,0,4.44,0,0,4.07,6.83,38,130,17,0,Texas St.,,0,0,0,5.4
+2015,Greg Mancz,Greg,Mancz,C,6,4,76,301,0,0,0,0,0,0,0,0,0,0,0,Toledo,,0,0,0,5.4
+2015,Sean Mannion,Sean,Mannion,QB,6,6,78,229,0,0,5.14,0,0,4.39,7.29,31,105,0,0,Oregon St.,,0,0,0,5.3
+2015,Justin Manton,Justin,Manton,K,6,3,75,196,0,0,0,0,0,0,0,0,0,0,0,Louisiana-Monroe,,0,0,0,4.8
+2015,Marcus Mariota,Marcus,Mariota,QB,6,4,76,222,0,0,4.52,0,0,4.11,6.87,36,121,0,0,Oregon,,0,0,0,6.4
+2015,Dean Marlowe,Dean,Marlowe,FS,6,1,73,203,0,0,4.58,0,0,4.18,7,33.5,114,16,0,James Madison,,0,0,0,4.9
+2015,Ali Marpet,Ali,Marpet,C,6,4,76,307,0,0,4.98,0,0,4.47,7.33,30.5,108,30,0,Hobart & William Smith,,0,0,0,5.4
+2015,Nick Marshall,Nick,Marshall,QB,6,1,73,207,0,0,4.54,0,0,4.15,6.96,37.5,124,12,0,Auburn,,0,0,0,5.2
+2015,Josue Matias,Josue,Matias,OG,6,5,77,309,0,0,5.52,0,0,5.12,8.19,17.5,84,0,0,Florida St.,,0,0,0,5.5
+2015,Lorenzo Mauldin,Lorenzo,Mauldin,OLB,6,4,76,259,0,0,4.85,0,0,4.58,7.47,32,112,23,0,Louisville,,0,0,0,5.7
+2015,Vince Mayle,Vince,Mayle,WR,6,2,74,224,0,0,4.67,0,0,4.13,6.93,35.5,117,0,0,Washington St.,,0,0,0,5.6
+2015,Joey Mbu,Joey,Mbu,DT,6,3,75,313,0,0,5.54,0,0,5.01,8.2,22.5,97,0,0,Houston,,0,0,0,5.2
+2015,Tre McBride,Tre,McBride,WR,6,0,72,210,0,0,4.41,0,0,4.08,6.96,38,122,16,0,William & Mary,,0,0,0,5.3
+2015,Bobby McCain,Bobby,McCain,CB,5,9,69,195,0,0,4.51,0,0,3.82,6.8,36,130,17,0,Memphis,,0,0,0,5.3
+2015,Ellis McCarthy,Ellis,McCarthy,DT,6,5,77,338,0,0,5.21,0,0,5.07,8.16,32,109,24,0,UCLA,,0,0,0,5
+2015,Tevin McDonald,Tevin,McDonald,FS,5,11,71,195,0,0,4.63,0,0,4.26,7.01,33,112,19,0,Eastern Washington,,0,0,0,5.2
+2015,Benardrick McKinney,Benardrick,McKinney,ILB,6,4,76,246,0,0,4.66,0,0,4.27,7.21,40.5,121,16,0,Mississippi St.,,0,0,0,6
+2015,Darrian Miller,Darrian,Miller,OG,6,5,77,307,0,0,5.51,0,0,4.87,7.91,25,97,0,0,Kentucky,,0,0,0,5.2
+2015,John Miller,John,Miller,OG,6,2,74,303,0,0,5.33,0,0,4.75,8.2,27,104,29,0,Louisville,,0,0,0,5.5
+2015,Ty Montgomery,Ty,Montgomery,WR,6,0,72,221,0,0,4.55,0,0,4.21,6.97,40.5,121,0,0,Stanford,,0,0,0,5.6
+2015,Mitch Morse,Mitch,Morse,OG,6,5,77,305,0,0,5.14,0,0,4.5,7.6,31,112,36,0,Missouri,,0,0,0,5.2
+2015,Keith Mumphery,Keith,Mumphery,WR,6,0,72,215,0,0,4.54,0,0,4.25,7.07,32.5,121,0,0,Michigan St.,,0,0,0,4.8
+2015,Marcus Murphy,Marcus,Murphy,RB,5,8,68,193,0,0,4.61,0,0,4.4,0,29,109,11,0,Missouri,,0,0,0,5.3
+2015,Robert Myers,Robert,Myers,OG,6,5,77,326,0,0,5.44,0,0,4.91,8.1,27.5,94,0,0,Tennessee St.,,0,0,0,5.2
+2015,J.J. Nelson,J.J.,Nelson,WR,5,10,70,156,0,0,4.28,0,0,4.15,7.02,36,127,0,0,UAB,,0,0,0,4.9
+2015,Steven Nelson,Steven,Nelson,CB,5,10,70,197,0,0,4.49,0,0,4.07,6.88,34.5,115,19,0,Oregon St.,,0,0,0,5.4
+2015,Rakeem Nunez-Roches,Rakeem,Nunez-Roches,DT,6,2,74,307,0,0,5.02,0,0,4.69,7.67,34,114,26,0,Southern Miss,,0,0,0,5.1
+2015,Mark Nzeocha,Mark,Nzeocha,OLB,6,2,74,232,0,0,0,0,0,0,0,0,0,24,0,Wyoming,,0,0,0,5.1
+2015,Nick O'Leary,Nick,O'Leary,TE,6,3,75,252,0,0,4.93,0,0,4.5,0,30.5,110,21,0,Florida St.,,0,0,0,5.4
+2015,Owamagbe Odighizuwa,Owamagbe,Odighizuwa,DE,6,3,75,267,0,0,4.62,0,0,4.19,7.36,39,127,25,0,UCLA,,0,0,0,5.7
+2015,Cedric Ogbuehi,Cedric,Ogbuehi,OT,6,5,77,306,0,0,0,0,0,0,0,0,0,23,0,Texas A&M,,0,0,0,5.9
+2015,Nate Orchard,Nate,Orchard,DE,6,3,75,250,0,0,4.8,0,0,4.43,7.28,31.5,115,0,0,Utah,,0,0,0,5.8
+2015,Leon Orr,Leon,Orr,DT,6,5,77,323,0,0,5.16,0,0,4.9,8.26,28,100,0,0,Florida,,0,0,0,5.3
+2015,Trevor Pardula,Trevor,Pardula,P,6,4,76,227,0,0,0,0,0,0,0,0,0,0,0,Kansas,,0,0,0,0
+2015,DeVante Parker,DeVante,Parker,WR,6,3,75,209,0,0,4.45,0,0,0,0,36.5,125,17,0,Louisville,,0,0,0,6.2
+2015,David Parry,David,Parry,NT,6,1,73,308,0,0,5.38,0,0,0,0,29,103,34,0,Stanford,,0,0,0,5.4
+2015,Andrus Peat,Andrus,Peat,OT,6,7,79,313,0,0,5.18,0,0,4.62,8.01,31,105,0,0,Stanford,,0,0,0,6.2
+2015,Breshad Perriman,Breshad,Perriman,WR,6,2,74,212,0,0,0,0,0,0,0,0,0,0,0,Central Florida,,0,0,0,5.8
+2015,Denzel Perryman,Denzel,Perryman,ILB,5,11,71,236,0,0,4.78,0,0,0,0,32,113,27,0,Miami,,0,0,0,5.7
+2015,Garry Peters,Garry,Peters,CB,6,0,72,191,0,0,4.61,0,0,4,6.8,32.5,119,7,0,Clemson,,0,0,0,5.3
+2015,Marcus Peters,Marcus,Peters,CB,6,0,72,197,0,0,4.53,0,0,4.08,7.08,37.5,121,17,0,Washington,,0,0,0,5.8
+2015,Bryce Petty,Bryce,Petty,QB,6,3,75,230,0,0,4.87,0,0,4.13,6.91,34,121,0,0,Baylor,,0,0,0,5.3
+2015,Jordan Phillips,Jordan,Phillips,NT,6,5,77,329,0,0,5.17,0,0,4.68,7.88,30,105,28,0,Oklahoma,,0,0,0,6.2
+2015,Darius Philon,Darius,Philon,DT,6,1,73,298,0,0,5,0,0,0,8,31,107,26,0,Arkansas,,0,0,0,5.4
+2015,Bradley Pinion,Bradley,Pinion,P,6,5,77,229,0,0,0,0,0,0,0,0,0,0,0,Clemson,,0,0,0,5
+2015,Terry Poole,Terry,Poole,OG,6,5,77,307,0,0,5.09,0,0,4.66,7.9,31,113,25,0,San Diego St.,,0,0,0,5
+2015,Jeremiah Poutasi,Jeremiah,Poutasi,OG,6,5,77,335,0,0,5.32,0,0,4.89,8.09,26.5,95,26,0,Utah,,0,0,0,5.4
+2015,Cody Prewitt,Cody,Prewitt,FS,6,2,74,208,0,0,4.6,0,0,4.23,7.12,35,125,11,0,Mississippi,,0,0,0,5.3
+2015,MyCole Pruitt,MyCole,Pruitt,TE,6,2,74,251,0,0,4.58,0,0,4.37,0,38,118,17,0,Southern Illinois,,0,0,0,5
+2015,Hayes Pullard,Hayes,Pullard,ILB,6,0,72,240,0,0,4.78,0,0,4.39,7.07,31,110,19,0,USC,,0,0,0,5.4
+2015,Damarious Randall,Damarious,Randall,FS,5,11,71,196,0,0,4.46,0,0,4.07,6.83,38,120,14,0,Arizona State,,0,0,0,5.4
+2015,Thomas Rawls,Thomas,Rawls,RB,5,9,69,215,0,0,4.65,0,0,0,0,35.5,116,15,0,Central Michigan,,0,0,0,5.5
+2015,Shane Ray,Shane,Ray,DE,6,3,75,245,0,0,0,0,0,0,0,0,0,21,0,Missouri,,0,0,0,6.8
+2015,Cedric Reed,Cedric,Reed,DE,6,5,77,269,0,0,0,0,0,0,0,0,0,22,0,Texas,,0,0,0,5.2
+2015,Jordan Richards,Jordan,Richards,SS,5,11,71,211,0,0,4.65,0,0,4.22,6.74,32,111,13,0,Stanford,,0,0,0,5.2
+2015,Bobby Richardson,Bobby,Richardson,DT,6,3,75,283,0,0,5.16,0,0,4.41,7.57,32.5,106,0,0,Indiana,,0,0,0,5.6
+2015,Jared Roberts,Jared,Roberts,K,6,1,73,210,0,0,0,0,0,0,0,0,0,0,0,Colorado St.,,0,0,0,4.8
+2015,Corey Robinson,Corey,Robinson,OT,6,7,79,324,0,0,0,0,0,0,0,0,0,28,0,South Carolina,,0,0,0,5.3
+2015,Edmond Robinson,Edmond,Robinson,OLB,6,3,75,245,0,0,4.61,0,0,4.38,7.49,37,121,20,0,Newberry,,0,0,0,4.8
+2015,Josh Robinson,Josh,Robinson,RB,5,8,68,217,0,0,4.7,0,0,0,0,32,113,21,0,Mississippi St.,,0,0,0,5.2
+2015,Quinten Rollins,Quinten,Rollins,CB,5,11,71,195,0,0,4.57,0,0,4.28,7.1,36.5,122,14,0,Miami (OH),,0,0,0,5.8
+2015,Spencer Roth,Spencer,Roth,P,6,4,76,227,0,0,0,0,0,0,0,0,0,0,0,Baylor,,0,0,0,5.1
+2015,Eric Rowe,Eric,Rowe,FS,6,1,73,205,0,0,4.45,0,0,3.97,6.7,39,125,19,0,Utah,,0,0,0,5.4
+2015,Ezell Ruffin,Ezell,Ruffin,WR,6,0,72,218,0,0,4.68,0,0,4.58,7.35,27.5,110,17,0,San Diego St.,,0,0,0,4.8
+2015,Ryan Russell,Ryan,Russell,DE,6,4,76,269,0,0,4.75,0,0,4.47,7.25,32.5,119,25,0,Purdue,,0,0,0,5
+2015,Jake Ryan,Jake,Ryan,OLB,6,2,74,240,0,0,4.65,0,0,4.2,7.11,34.5,120,20,0,Michigan,,0,0,0,5.3
+2015,Ty Sambrailo,Ty,Sambrailo,OT,6,6,78,311,0,0,5.36,0,0,4.58,7.54,29,97,23,0,Colorado St.,,0,0,0,5.6
+2015,James Sample,James,Sample,SS,6,2,74,209,0,0,4.56,0,0,0,7.04,32.5,123,0,0,Louisville,,0,0,0,5.2
+2015,Wes Saxton,Wes,Saxton,TE,6,3,75,248,0,0,4.65,0,0,4.49,0,36,119,0,0,South Alabama,,0,0,0,5.2
+2015,Brandon Scherff,Brandon,Scherff,OG,6,5,77,319,0,0,5.05,0,0,0,0,0,0,23,0,Iowa,,0,0,0,6.4
+2015,Ross Scheuerman,Ross,Scheuerman,RB,6,0,72,204,0,0,4.62,0,0,4.11,7.08,33,121,15,0,Lafayette,,0,0,0,5
+2015,Josh Shaw,Josh,Shaw,CB,6,0,72,201,0,0,4.44,0,0,4.12,7.01,37.5,130,26,0,USC,,0,0,0,5.4
+2015,Adam Shead,Adam,Shead,OG,6,4,76,338,0,0,5.74,0,0,0,0,0,0,26,0,Oklahoma,,0,0,0,5.1
+2015,Danny Shelton,Danny,Shelton,NT,6,2,74,339,0,0,5.64,0,0,4.65,7.99,30.5,95,34,0,Washington,,0,0,0,6.4
+2015,Austin Shepherd,Austin,Shepherd,OT,6,4,76,315,0,0,5.39,0,0,4.7,8.04,29,94,17,0,Alabama,,0,0,0,5.3
+2015,JaCorey Shepherd,JaCorey,Shepherd,CB,5,11,71,199,0,0,0,0,0,0,0,0,0,14,0,Kansas,,0,0,0,5.4
+2015,Jean Sifrin,Jean,Sifrin,TE,6,5,77,245,0,0,4.84,0,0,4.6,0,33,114,0,0,Massachusetts,,0,0,0,5.2
+2015,Deon Simon,Deon,Simon,NT,6,4,76,321,0,0,5.12,0,0,4.76,7.92,29.5,105,35,0,Northwestern St. (LA),,0,0,0,5
+2015,Blake Sims,Blake,Sims,QB,5,11,71,218,0,0,4.57,0,0,0,0,30.5,115,0,0,Alabama,,0,0,0,5.2
+2015,DeAndre Smelter,DeAndre,Smelter,WR,6,2,74,226,0,0,0,0,0,0,0,0,0,0,0,Georgia Tech,,0,0,0,5.5
+2015,D'Joun Smith,D'Joun,Smith,CB,5,10,70,187,0,0,4.45,0,0,4.26,6.96,36,124,18,0,Florida Atlantic,,0,0,0,5.6
+2015,Derron Smith,Derron,Smith,FS,5,10,70,200,0,0,0,0,0,0,0,0,0,0,0,Fresno St.,,0,0,0,5.7
+2015,Devin Smith,Devin,Smith,WR,6,0,72,196,0,0,4.42,0,0,4.15,0,39,122,10,0,Ohio St.,,0,0,0,5.7
+2015,Donovan Smith,Donovan,Smith,OG,6,6,78,338,0,0,5.27,0,0,4.79,7.95,32,109,26,0,Penn St.,,0,0,0,5.3
+2015,Preston Smith,Preston,Smith,DE,6,5,77,271,0,0,4.74,0,0,4.28,7.07,34,121,24,0,Mississippi St.,,0,0,0,5.6
+2015,Tye Smith,Tye,Smith,CB,6,0,72,195,0,0,4.6,0,0,3.96,6.97,36.5,124,15,0,Towson,,0,0,0,4.9
+2015,Za'Darius Smith,Za'Darius,Smith,DE,6,4,76,274,0,0,4.83,0,0,4.66,7.42,29,113,23,0,Kentucky,,0,0,0,5.5
+2015,Martrell Spaight,Martrell,Spaight,OLB,6,0,72,236,0,0,4.88,0,0,0,7.66,35,120,25,0,Arkansas,,0,0,0,5.3
+2015,Jaelen Strong,Jaelen,Strong,WR,6,2,74,217,0,0,4.44,0,0,0,0,42,123,0,0,Arizona State,,0,0,0,5.8
+2015,J.T. Surratt,J.T.,Surratt,DT,6,1,73,304,0,0,5.19,0,0,4.71,7.78,30,106,29,0,South Carolina,,0,0,0,5.2
+2015,Damian Swann,Damian,Swann,CB,6,0,72,189,0,0,4.5,0,0,0,0,33,118,0,0,Georgia,,0,0,0,5.3
+2015,Jaquiski Tartt,Jaquiski,Tartt,SS,6,1,73,221,0,0,4.53,0,0,0,0,0,124,0,0,Samford,,0,0,0,5.5
+2015,J.R. Tavai,J.R.,Tavai,OLB,6,2,74,249,0,0,4.91,0,0,0,0,30.5,112,20,0,USC,,0,0,0,5.4
+2015,Randall Telfer,Randall,Telfer,TE,6,4,76,250,0,0,0,0,0,0,0,0,0,20,0,USC,,0,0,0,0
+2015,Shaq Thompson,Shaq,Thompson,OLB,6,0,72,228,0,0,4.64,0,0,4.08,6.99,33.5,117,0,0,Washington,,0,0,0,6
+2015,Tyrus Thompson,Tyrus,Thompson,OT,6,5,77,324,0,0,0,0,0,4.92,0,29,97,29,0,Oklahoma,,0,0,0,5.5
+2015,Eric Tomlinson,Eric,Tomlinson,TE,6,6,78,263,0,0,4.98,0,0,4.54,0,30.5,110,19,0,Texas-El Paso,,0,0,0,4.8
+2015,Laken Tomlinson,Laken,Tomlinson,OG,6,3,75,323,0,0,5.33,0,0,4.87,8.17,31.5,103,25,0,Duke,,0,0,0,5.6
+2015,Lynden Trail,Lynden,Trail,DE,6,7,79,269,0,0,4.91,0,0,4.48,7.32,32.5,117,24,0,Norfolk St.,,0,0,0,5.1
+2015,Louis Trinca-Pasat,Louis,Trinca-Pasat,DT,6,1,73,290,0,0,4.96,0,0,4.3,7.4,32,105,0,0,Iowa,,0,0,0,5.3
+2015,Davis Tull,Davis,Tull,OLB,6,2,74,246,0,0,0,0,0,0,0,42.5,132,26,0,Tennessee-Chattanooga,,0,0,0,5.2
+2015,Max Valles,Max,Valles,OLB,6,5,77,251,0,0,4.83,0,0,4.37,7.59,36.5,121,0,0,Virginia,,0,0,0,5.4
+2015,Tyler Varga,Tyler,Varga,FB,5,11,71,222,0,0,0,0,0,0,0,0,0,23,0,Yale,,0,0,0,5.2
+2015,Zack Wagenmann,Zack,Wagenmann,DE,6,3,75,247,0,0,4.82,0,0,4.26,7.07,37.5,109,14,0,Montana,,0,0,0,0
+2015,Clive Walford,Clive,Walford,TE,6,4,76,251,0,0,4.79,0,0,4.57,0,35,120,20,0,Miami,,0,0,0,5.6
+2015,Darren Waller,Darren,Waller,WR,6,6,78,238,0,0,4.46,0,0,4.25,7.07,37,125,12,0,Georgia Tech,,0,0,0,5.4
+2015,Leterrius Walton,Leterrius,Walton,DT,6,5,77,319,0,0,5.25,0,0,4.78,7.91,27,103,25,0,Central Michigan,,0,0,0,5.4
+2015,Tony Washington,Tony,Washington,OLB,6,4,76,247,0,0,4.99,0,0,4.31,7.2,32.5,110,17,0,Oregon,,0,0,0,5
+2015,Trae Waynes,Trae,Waynes,CB,6,0,72,186,0,0,4.31,0,0,4.39,7.06,38,122,19,0,Michigan St.,,0,0,0,6.2
+2015,DeAndrew White,DeAndrew,White,WR,5,11,71,193,0,0,4.44,0,0,4.18,6.97,34.5,118,0,0,Alabama,,0,0,0,5.1
+2015,Kevin White,Kevin,White,WR,6,3,75,215,0,0,4.35,0,0,4.14,6.92,36.5,123,23,0,West Virginia,,0,0,0,6.2
+2015,Kevin White,Kevin,White,CB,5,9,69,183,0,0,4.63,0,0,0,0,35.5,121,18,0,TCU,,0,0,0,5.3
+2015,Jermaine Whitehead,Jermaine,Whitehead,FS,5,11,71,197,0,0,4.59,0,0,4.11,6.95,37,128,15,0,Auburn,,0,0,0,0
+2015,Daryl Williams,Daryl,Williams,OT,6,5,77,327,0,0,5.34,0,0,5.15,0,26,97,27,0,Oklahoma,,0,0,0,5.6
+2015,Karlos Williams,Karlos,Williams,RB,6,1,73,230,0,0,4.48,0,0,4.46,7.16,33.5,117,16,0,Florida St.,,0,0,0,5.3
+2015,Leonard Williams,Leonard,Williams,DE,6,5,77,302,0,0,4.97,0,0,4.53,7.59,29.5,106,0,0,USC,,0,0,0,7.4
+2015,Maxx Williams,Maxx,Williams,TE,6,4,76,249,0,0,4.78,0,0,4.37,0,34.5,117,17,0,Minnesota,,0,0,0,5.8
+2015,P.J. Williams,P.J.,Williams,CB,6,0,72,194,0,0,4.57,0,0,4.28,7.08,40,132,12,0,Florida St.,,0,0,0,6
+2015,Trey Williams,Trey,Williams,RB,5,7,67,195,0,0,4.49,0,0,4.12,6.84,33.5,119,18,0,Texas A&M,,0,0,0,5.2
+2015,Damien Wilson,Damien,Wilson,ILB,6,0,72,245,0,0,4.77,0,0,4.2,7.21,37,119,22,0,Minnesota,,0,0,0,5.1
+2015,Julian Wilson,Julian,Wilson,CB,6,2,74,205,0,0,4.58,0,0,4.22,6.94,36,125,0,0,Oklahoma,,0,0,0,4.6
+2015,Ramik Wilson,Ramik,Wilson,ILB,6,2,74,237,0,0,4.77,0,0,4.51,0,35,111,23,0,Georgia,,0,0,0,5.4
+2015,Jameis Winston,Jameis,Winston,QB,6,4,76,231,0,0,4.97,0,0,4.36,7.16,28.5,103,0,0,Florida St.,,0,0,0,6.5
+2015,Cam Worthy,Cam,Worthy,WR,6,2,74,211,0,0,0,0,0,0,0,0,0,12,0,East Carolina,,0,0,0,5
+2015,Gabe Wright,Gabe,Wright,DT,6,3,75,300,0,0,5.07,0,0,4.56,7.73,26.5,100,34,0,Auburn,,0,0,0,5.7
+2015,T.J. Yeldon,T.J.,Yeldon,RB,6,1,73,226,0,0,4.61,0,0,4.22,7.19,36,117,22,0,Alabama,,0,0,0,5.7
+2015,Zach Zenner,Zach,Zenner,RB,5,11,71,223,0,0,4.6,0,0,4.14,7.08,41,121,25,0,South Dakota St.,,0,0,0,5.3
+2014,Jared Abbrederis,Jared,Abbrederis,WR,6,1,73,195,0,0,4.5,0,0,4.08,6.8,30.5,117,4,6,Wisconsin,0,16,176,0,5.2
